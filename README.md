@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=378ADD&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+sou+Jo%C3%A3o+Paulo;React+Developer;CS+Student" alt="Typing SVG" />
 <p>
   Estudante de Ciência da Computação com foco em <strong>React</strong> e desenvolvimento web.<br/>
-  Apaixonado por criar projetos criativos que exploram novas tecnologias e resolvem problemas reais.
+  Sempre criando projetos criativos que exploram novas tecnologias e toda minha criatividade.
 </p>
   
 [![Email](https://img.shields.io/badge/joaopk.ifc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopk.ifc@gmail.com)
