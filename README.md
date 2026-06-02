@@ -6,6 +6,8 @@
 </p>
   
 [![Email](https://img.shields.io/badge/joaopk.ifc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopk.ifc@gmail.com)
+
+ ___
  
 </div>
 
@@ -39,4 +41,9 @@
 
 </div>
 
+___
+ 
+<div align="center">
+  <sub>Feito com ❤️ por João Paulo</sub>
+</div>
 
